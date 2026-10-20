@@ -1,0 +1,1 @@
+function e(e,t,[n,...r],i){return{text:t,options:[n,...r],correctIndex:0,explanation:i,difficulty:e}}function t(e,t,n,[r,...i],a){return{text:t,code:n,options:[r,...i],correctIndex:0,explanation:a,difficulty:e}}export{t as n,e as t};

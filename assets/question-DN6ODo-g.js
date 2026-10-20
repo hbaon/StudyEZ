@@ -1,1 +1,0 @@
-function e(e,t,[n,...r],i){return{text:t,options:[n,...r],correctIndex:0,explanation:i,difficulty:e}}export{e as t};
