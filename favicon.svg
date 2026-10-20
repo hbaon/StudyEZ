@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="shield" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1f3d6b"/>
+      <stop offset="1" stop-color="#13294b"/>
+    </linearGradient>
+    <linearGradient id="bolt" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffb347"/>
+      <stop offset="1" stop-color="#e8540a"/>
+    </linearGradient>
+  </defs>
+  <path d="M32 3 L57 11 V30 C57 46 46 56 32 61 C18 56 7 46 7 30 V11 Z" fill="url(#shield)" stroke="#e8540a" stroke-width="3.5" stroke-linejoin="round"/>
+  <path d="M13 37 Q22 33 31 37.5 V51 Q22 46.5 13 50.5 Z" fill="#ffffff"/>
+  <path d="M51 37 Q42 33 33 37.5 V51 Q42 46.5 51 50.5 Z" fill="#e6ebf4"/>
+  <path d="M17 41 Q22 39 27 41 M17 45 Q22 43 27 45 M37 41 Q42 39 47 41 M37 45 Q42 43 47 45" stroke="#9fb0cc" stroke-width="1.4" fill="none" stroke-linecap="round"/>
+  <path d="M37 8 L22 30 H31 L27 44 L44 20 H35 Z" fill="url(#bolt)" stroke="#13294b" stroke-width="2" stroke-linejoin="round"/>
+</svg>
